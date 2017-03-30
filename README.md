@@ -1,3 +1,3 @@
 # wwa-team7
 
-Przegladarka ofert :)
+Braincode 2017 (24h project)
